@@ -1,7 +1,7 @@
 % ------------- %
 % CLASS OPTIONS %
 % ------------- %
-\ProvidesClass{cv_public}[2022/04/20 CV class]
+\ProvidesClass{cv-public}[2022/04/20 CV class]
 \NeedsTeXFormat{LaTeX2e}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions\relax
